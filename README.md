@@ -1,2 +1,3 @@
-# 3.5.2_-_3.5.6_Projektarbeit
-3.5.2 - 3.5.6 Projektarbeit (Projekt 11: Funktion)
+# 3.5.2 - 3.5.6 Projektarbeit (Projekt 11: Funktion)
+
+Zu Risiken und Nebenwirkungen lesen Sie die VSCode-Beilage und fragen Sie Ihre Programmiererin, Ihren Programmierer oder in Ihrer Codefabrik. 
