@@ -6,7 +6,8 @@ import "aufgabe_3.dart";
 import "aufgabe_4.dart";
 
 void main() {
-  print("Bitte wähle eine dieser OPtionen aus...");
+  print("Herzlich Willkommen auf BringMe:)");
+  print("Bitte wähle eine dieser Optionen aus...");
   print("1. Erste-Registration");
   print("2. Anmelden");
   print("3. Produkte scannen");
