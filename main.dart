@@ -26,5 +26,7 @@ void main() {
           "Liste erstellen" ||
           "Personen hinzufügen":
       listWithPeople();
+    default:
+      print("Bitte wähle etwas aus um fortzufahren");
   }
 }
